@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcmail-jdk13-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcmail-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcmail-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpg-jdk12-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpg-jdk13-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpg-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpg-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpkix-jdk12-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpkix-jdk13-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpkix-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcpkix-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-debug-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-debug-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-ext-debug-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-ext-debug-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-ext-jdk12-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-ext-jdk13-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-ext-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-ext-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-jdk12-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-jdk13-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bcprov-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bctest-jdk12-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bctest-jdk13-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bctest-jdk14-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bctest-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/bctls-jdk15on-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/jce-ext-jdk12-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/jce-ext-jdk13-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/jce-jdk12-160.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Shivam Agarwal/Downloads/New folder/jce-jdk13-160.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
